@@ -1,6 +1,0 @@
- //<![CDATA[
-//Loading Halaman Catatanbocah.blogspot.com
-$(window).bind("load", function() {
-    $('#load-page-catatanbocah').fadeOut(3000);
-});
-//]]>
